@@ -1,5 +1,5 @@
-# time-series-analysis-rtsm
-This is the public repository for my code which consisted of the implementation of an in-depth time series analysis to Amazon's Quarterly Revenues from 2006-2020. A variety of forecasting methods of such as ARIMA, MA, EWMA, Holts, Holts-Winters and Seasonal ARIMA are used.
+# time-series-analysis
+This repository consists of the implementation of an in-depth time series analysis to Amazon's Quarterly Revenues from 2006-2020. A variety of forecasting methods of such as ARIMA, MA, EWMA, Holts, Holts-Winters and Seasonal ARIMA are used.
 
 To reproduce the results you can directly run the python script:
 
